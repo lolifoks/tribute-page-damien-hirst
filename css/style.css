@@ -1,0 +1,100 @@
+  .navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+  }
+  
+  .navbar-nav li a:hover {
+    color: #1abc9c !important;
+  }
+  
+  .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  
+  h1 {
+    font-size: 80px;
+    font-family: Impact, Charcoal, sans-serif;
+    color: #000;
+    margin-top: 100px;
+  }
+  
+  h4 {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 2px;
+
+  }
+  
+  p {
+    font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif font-size 12px;
+    font-weight: normal; height 50px;
+    letter-spacing: 3px;
+    color: #777;
+  }
+  
+  .bg-green {
+    background-color: #0d5e4e;
+    color: #fff;
+    font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; font-size 12px;
+    font-weight: normal; height 50px;
+    letter-spacing: 3px;
+  }
+  
+  .bg-black {
+    background-color: #000;
+    color: #fff;
+    font-family: "Courier New", Courier, ;
+  }
+  
+  .bg-1 {
+    background-image: url('http://www.whitehotmagazine.com/UserFiles/image/Damien%20Hirst/Damien_Hirst_skull2.jpg');
+    background-repeat: repeat-x;
+    background-color: #909090
+  }
+  
+  .bg-2 {
+    background-image: url('http://www.polarimagazine.com/wp-content/uploads/2012/05/Hirst-Tate-Butterflies.jpg');
+    background-color: #000;
+    background-repeat: no-repeat;
+  }
+  
+  .bg-3 {
+    background-color: #000;
+    background-repeat: repeat;
+  }
+  
+  .bg-4 {
+    background-color: #fff;
+    background-repeat: no-repeat;
+  }
+  
+  .slideanim {
+    visibility: hidden;
+  }
+  
+  .slide {
+    animation-name: slide;
+    -webkit-animation-name: slide;
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    visibility: visible;
+  }
+  
+  figcaption {
+     font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif font-size 12px;
+    font-weight: normal;
+    height 50px;
+    letter-spacing: 3px;
+    color: #777;
+  }
+  
+  a {
+    color: #1abc9c;
+  }
